@@ -1,0 +1,27 @@
+body{
+    background: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+header{
+    padding: 30px;
+    color: white;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    background: white;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(175, 155, 155);
+    margin: auto; /*centraliza o conteudo no meio da pag*/
+}
+
+div#res{
+    margin-top: 20px;
+    font-size: 16px;
+    width: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
