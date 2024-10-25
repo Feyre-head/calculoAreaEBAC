@@ -4,7 +4,7 @@ function calculaArea(){
     var resposta = document.getElementById('res')
 
     base=Number(base)
-    altura=Number(base)
+    altura=Number(altura)
     total=base*altura
 
     res.innerHTML=`Área = ${total}`
