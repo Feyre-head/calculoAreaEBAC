@@ -1,4 +1,4 @@
-function somar(){
+function calculaArea(){
     var base = document.getElementById('base').value
     var altura = document.getElementById('altura').value
     var resposta = document.getElementById('res')
